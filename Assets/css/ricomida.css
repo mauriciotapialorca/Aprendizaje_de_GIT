@@ -1,0 +1,61 @@
+body{
+   font-family: Helvetica;
+}
+
+.navbar{ 
+  Background-color: #373A3C;
+  opacity: 100%;
+  position: #FFFFFF;
+  width: 100vw;
+  z-index: 1;
+  }
+
+  .navbar-brand { 
+   font-family: "Oswalds";
+    font-size: 40px; 
+   font-weight: 700; 
+ } 
+
+
+ .navbar.
+ /* Ingredientes - Preparacion */
+
+ #Ingredientes-Preparacion 
+ {
+   color: #373A3C ;
+   font-family: Cabin, Regular;
+   line - height: 3;
+
+ }
+
+ .ancho-fijo
+ {
+   width: 482px;
+   height: 384 pt;
+ }
+
+ .color-Footer
+{ 
+  Background-color: #373A3C;
+ 
+} 
+.Hero-Section{
+   background-image:url("asetts/img/principal.jpg")
+   background-repeat:no-repeat;
+   background-position:center;
+   background-size:cover;
+   height:100vh;
+   position:relative;
+}
+#Hero-Section div
+{ 
+  position:absolute;
+  bottom:205px;
+  left:0;
+  right:0;
+  margin:auto;
+}
+.letra-section{
+  font-family: "cabin";
+
+}
